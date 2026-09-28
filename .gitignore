@@ -1,0 +1,15 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.log
+.env
+.env.*
+!.env.example
+.tripo/
+# Keep generated production intermediates locally; runnable web assets are tracked.
+assets/
+tripo-out/
+qa/
+__pycache__/
+*.pyc

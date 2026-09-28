@@ -1,0 +1,68 @@
+{
+  "recordedAt": "2026-09-24T09:51:32.8060984Z",
+  "frozen": true,
+  "reason": "User requested progress record and a stage commit",
+  "publicModelsUnchangedByBenchmark": true,
+  "portfolio": {
+    "models": 20,
+    "modelAndRigCredits": 1375,
+    "costReport": "assets/credits.json",
+    "manifest": "assets-manifest.json",
+    "note": "Model/rig receipts only; excludes parent-led image-source experiments"
+  },
+  "benchmark": {
+    "model": "v3.1-20260211",
+    "geometryQuality": "detailed",
+    "textureQuality": "extreme",
+    "pbr": true,
+    "modelSeed": 42137,
+    "confirmedCredits": 140,
+    "review": "not_started",
+    "compression": "not_started",
+    "published": false,
+    "previousWebBackup": "assets/reference-benchmark/previous/yinglong-idle.glb",
+    "jobs": [
+      {
+        "name": "yinglong-a-gpt",
+        "taskId": "33849391-2831-4612-824f-5955a4da6a9d",
+        "serverStatus": "success",
+        "downloadStatus": "in_progress",
+        "credits": 70,
+        "reference": "design/references/yinglong-gpt-complete.png",
+        "receipt": "assets/reference-benchmark/records/yinglong-a-gpt.stdout.json",
+        "expectedOutputDirectory": "assets/reference-benchmark/tripo-out/yinglong-a-gpt-33849391"
+      },
+      {
+        "name": "yinglong-b-tripo",
+        "taskId": "de7dc09c-9808-4c24-8e7b-0a8370cb05bf",
+        "serverStatus": "success",
+        "downloadStatus": "failed",
+        "credits": 70,
+        "reference": "assets/reference-benchmark/tripo-out/yinglong-banana-complete-5fa3a20f/generated_image.png",
+        "receipt": "assets/reference-benchmark/records/yinglong-b-tripo.stdout.json",
+        "inputLimitation": "Right wing remains cropped after source zoom-out edit",
+        "recovery": "After resume, use task get with --download for this existing successful task; do not regenerate"
+      }
+    ]
+  },
+  "notSubmitted": [
+    {
+      "name": "zhulong-colossal",
+      "reference": "design/references/zhulong-colossal.png",
+      "taskId": null,
+      "status": "not_submitted",
+      "creditsSpent": 0,
+      "proposedCredits": 70
+    }
+  ],
+  "followUp": [
+    "Finish or freely recover downloads of existing A/B tasks after resume",
+    "Inspect raw models and render three angles before quality comparison",
+    "Compress candidates in benchmark directory only",
+    "Parent chooses whether to publish; do not overwrite public Yinglong without that decision",
+    "Merge completed local anatomy metadata for Bifang/Fuzhu when parent resumes"
+  ],
+  "checkpointRecordedAt": "2026-09-28",
+  "localArtifactsInGit": false,
+  "resumeNote": "Both model.glb paths now exist locally; B has no final task.json. Verify completeness or recover the existing task, never regenerate solely to recover a download."
+}

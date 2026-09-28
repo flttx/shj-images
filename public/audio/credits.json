@@ -1,0 +1,72 @@
+{
+  "provider": "Runway",
+  "generatedFor": "山海经异兽图鉴",
+  "totalSeconds": 87,
+  "estimatedCredits": 87,
+  "tasks": [
+    {
+      "slug": "dragon",
+      "id": "796ded63-03f4-49be-8cc8-3e2f5dcd219d"
+    },
+    {
+      "slug": "ambience",
+      "id": "7c3fa8cc-d2c9-4bc5-92bc-8cefe4e2927c"
+    },
+    {
+      "slug": "winged",
+      "id": "215e181a-cbfc-4c1d-b713-b6805bb8e20a"
+    },
+    {
+      "slug": "spirit",
+      "id": "9a801d69-3ed8-4f2e-b43f-af8885d7e10c"
+    },
+    {
+      "slug": "aquatic",
+      "id": "b6b418bb-6b6a-46fd-a0df-4b0ffc311da2"
+    },
+    {
+      "slug": "deity",
+      "id": "c013b24c-2628-47f5-a4ad-6be2fd7b1045"
+    },
+    {
+      "slug": "bird",
+      "id": "8a81df62-84e0-479a-a2da-6f4832e74c91",
+      "prompt": "One large wild crane-like bird gives a long natural call followed by two heavy feathered wing beats, distant windy mountain echo. Realistic avian syrinx texture, rich restrained cinematic wildlife foley, no music or human voice, soft onset and fade."
+    },
+    {
+      "slug": "serpent",
+      "id": "b76dc251-cfe5-42ff-bd24-241bf9d4ec1a",
+      "prompt": "A colossal serpent slowly exhales a textured low hiss, layered dry scales sliding over rough stone and deep throat air. Several subtle overlapping hisses evoke a nine-headed snake without shrieking. Natural damp cave echo, organic cinematic foley, no music no voice."
+    },
+    {
+      "slug": "deer",
+      "id": "dbd18e4b-c040-4656-a604-c8e1d75c23b2",
+      "prompt": "A large white deer releases one soft low resonant call while walking through very shallow water. Two delicate hoof splashes, gentle breath, still misty wetland air and distant natural echo. Realistic wildlife foley, serene, no music no human voices."
+    },
+    {
+      "slug": "giant",
+      "id": "42b71230-69c1-4e7e-8092-5de5bf18b3ec",
+      "prompt": "An ancient enormous warrior produces one deep strained chest growl, then a heavy bronze axe touches a weathered shield with a muted metallic scrape and low thump. Spacious stone hall echo. Realistic cinematic foley, powerful restrained, no words no music."
+    },
+    {
+      "slug": "goat",
+      "id": "23d804a9-d6a3-4451-a1ce-fe6f16bde3e3",
+      "prompt": "An uncanny enormous goat-like creature gives one hoarse low bleat blended with a restrained tiger throat growl and heavy close breathing. Organic realistic animal sound design, dark mountain cave ambience, gentle onset fading silence, no speech no music."
+    },
+    {
+      "slug": "horse",
+      "id": "7cd1301c-1b06-41bc-ab32-a9025b9e8d9f",
+      "prompt": "A powerful wild horse exhales then gives a short restrained resonant whinny; two hooves scrape stone, great feathered wings softly shuffle behind it. Natural mountain valley echo, realistic cinematic animal foley, no music no speech, fade to silence."
+    },
+    {
+      "slug": "boar",
+      "id": "40337818-edc3-4378-b756-bb444d785d9a",
+      "prompt": "Two deep wild boar grunts slightly apart left and right, heavy nasal breathing and one hoof scrape on dusty stone. Large powerful body, realistic organic wildlife foley, subtle rocky valley reflection, not aggressive screaming, no voices no music."
+    },
+    {
+      "slug": "goddess",
+      "id": "af479988-4743-427d-a90b-181edc8ad6f0",
+      "prompt": "A solemn ancient female guardian releases one low nonverbal breathy hum interwoven with a subtle tiger throat purr, very restrained and majestic. Natural immense stone cavern reverberation. Organic cinematic creature voice, no intelligible words no song no music."
+    }
+  ]
+}

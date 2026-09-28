@@ -1,0 +1,104 @@
+{
+  "zhulong": {
+    "anatomy": "pass",
+    "review": "修正版：人面、无肢赤蛇、盘绕身躯通过；初版龙头未采用。",
+    "animations": []
+  },
+  "yinglong": {
+    "anatomy": "pass",
+    "review": "东方有角长身、双翼、四肢、长尾通过。",
+    "animations": [
+      "Idle_Breath"
+    ]
+  },
+  "nine-tailed-fox": {
+    "anatomy": "pass",
+    "review": "白狐、九条分离扇形尾、四足；已查看正面与背面。",
+    "animations": []
+  },
+  "dijiang": {
+    "anatomy": "pass",
+    "review": "参考图重建版：无面卵圆囊体、四翼、三对短足通过；原梨形四足版本废弃。",
+    "animations": []
+  },
+  "xiangliu": {
+    "anatomy": "pass",
+    "review": "参考图重建版：上层七首、下侧两首，九条独立蛇颈及盘绕蛇身通过。",
+    "animations": []
+  },
+  "qiongqi": {
+    "anatomy": "pass",
+    "review": "参考图重建版：四足虎身、双羽翼、真实虎脸通过；原直立虎人版本废弃。",
+    "animations": []
+  },
+  "paoxiao": {
+    "anatomy": "pass",
+    "review": "参考图重建版：人面、山羊躯体、腋下双眼、人手前爪和獠牙通过；旧兽面肩眼版废弃。",
+    "animations": []
+  },
+  "kaiming": {
+    "anatomy": "pass",
+    "review": "参考图重建版：横向四足虎躯、上层八个人面加低侧一个人面，共九首；旧直立虎人版废弃。",
+    "animations": []
+  },
+  "bashe": {
+    "anatomy": "pass",
+    "review": "粗壮无肢巨蟒、宽阔原始头部、大块岩灰鳞片、盘绕体态通过。",
+    "animations": []
+  },
+  "heluoyu": {
+    "anatomy": "unverified",
+    "review": "一首、多鱼身辐射结构已生成；十身准确数量尚待后视复核。",
+    "animations": []
+  },
+  "xingtian": {
+    "anatomy": "pass",
+    "review": "Blender局部补全：双胸眼窝、内嵌眼球、虹膜、厚眼睑与脐口浅腔、唇舌粗牙；无头与斧盾保留。",
+    "animations": []
+  },
+  "xiwangmu": {
+    "anatomy": "needs-revision",
+    "review": "庄严女性、蓬发、原始祭服和背面豹尾通过；当前闭嘴未显露蓝图所要求的虎齿。",
+    "animations": []
+  },
+  "shuhu": {
+    "anatomy": "needs-revision",
+    "review": "马身双鸟翼成立；当前仍为马脸，人面未生成，蛇尾特征也不足。",
+    "animations": []
+  },
+  "luwu": {
+    "anatomy": "needs-revision",
+    "review": "虎身、多尾成立，但人面生成成背上额外半身人像，未替代虎首；九尾数量也需再核。",
+    "animations": []
+  },
+  "bifang": {
+    "anatomy": "pass",
+    "review": "Blender局部移除第二条蜷缩短腿并补面；正面、背面、侧面均确认独足，保留原长支撑腿。",
+    "animations": []
+  },
+  "gudiao": {
+    "anatomy": "pass",
+    "review": "鹰雕体态、双角、利喙、双翼和猛禽爪通过。",
+    "animations": []
+  },
+  "fuzhu": {
+    "anatomy": "needs-revision",
+    "review": "白鹿体态通过，当前仅双角，待Blender补为四角。",
+    "animations": []
+  },
+  "yayu": {
+    "anatomy": "needs-revision",
+    "review": "重型牛身与凶兽体态通过；当前为牛脸，未实现本次采用的牛身人面版本。",
+    "animations": []
+  },
+  "ranyiyu": {
+    "anatomy": "needs-revision",
+    "review": "鱼身鱼尾和多足已生成，但头部仍为鱼头而非蛇首，六足数量需再校正。",
+    "animations": []
+  },
+  "bingfeng": {
+    "anatomy": "needs-revision",
+    "review": "正背视已复核，当前仅单首野猪并保留猪尾，未生成前后双首。",
+    "animations": []
+  }
+}
