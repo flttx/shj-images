@@ -9,7 +9,8 @@ export default defineConfig({
   reporter: "list",
   use: {
     baseURL: "http://127.0.0.1:5174",
-    channel: "chromium",
+    // Full Chromium can hang on Windows after SwiftShader tests; headless shell exits cleanly.
+    channel: process.platform === "win32" ? undefined : "chromium",
     viewport: { width: 1440, height: 1000 },
     launchOptions: {
       args: [
